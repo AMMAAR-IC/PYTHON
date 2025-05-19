@@ -142,4 +142,37 @@ def main():
         choice = input("Enter your choice: ")
 
         if choice == '1':
-            ti
+            title = input("Title: ")
+            author = input("Author: ")
+            year = input("Year: ")
+            library.add_book(title, author, year)
+        elif choice == '2':
+            library.view_books()
+        elif choice == '3':
+            book_id = int(input("Enter Book ID to delete: "))
+            library.delete_book(book_id)
+        elif choice == '4':
+            keyword = input("Enter keyword to search: ")
+            library.search_book(keyword)
+        elif choice == '5':
+            name = input("Member Name: ")
+            library.register_member(name)
+        elif choice == '6':
+            library.view_members()
+        elif choice == '7':
+            book_id = int(input("Book ID: "))
+            member_id = int(input("Member ID: "))
+            library.issue_book(book_id, member_id)
+        elif choice == '8':
+            transaction_id = int(input("Transaction ID: "))
+            library.return_book(transaction_id)
+        elif choice == '9':
+            library.view_transactions()
+        elif choice == '0':
+            print("Exiting... Goodbye!")
+            break
+        else:
+            print("Invalid choice. Please try again.")
+
+if __name__ == '__main__':
+    main()
