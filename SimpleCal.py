@@ -1,5 +1,5 @@
 print("Please write in this format: '{number}' '{operator}' '{number}'")
-
+ 
 while True:
     try:
         a = input("➤ ")
