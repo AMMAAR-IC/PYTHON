@@ -5,7 +5,8 @@ A collection of standalone Python scripts, grouped by topic.
 ## MachineLearning/
 Supervised, unsupervised and semi-supervised learning — both scikit-learn based
 and written from scratch. AdaBoost, DBSCAN, GMM, KNN, KMeans, PCA, Naive Bayes,
-Perceptron, SVM, random forests, label spreading, pseudo-labeling, self-training.
+Perceptron, SVM, random forests, label spreading, pseudo-labeling, self-training,
+and a pure-NumPy neural network with backprop trained on the digits dataset.
 
 ## AI_And_Search/
 Classic AI: search, constraint solving and reasoning. A* pathfinding, 8-puzzle
