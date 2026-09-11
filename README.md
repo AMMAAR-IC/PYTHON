@@ -12,7 +12,8 @@ and a pure-NumPy neural network with backprop trained on the digits dataset.
 ## AI_And_Search/
 Classic AI: search, constraint solving and reasoning. A* pathfinding, 8-puzzle
 heuristics, DFS maze solving, N-Queens, Knight's Tour, Sudoku validation, a SAT
-solver, a forward-chaining inference engine, the Einstein riddle, Markov chains.
+solver, a forward-chaining inference engine, the Einstein riddle, Markov chains,
+minimax with alpha-beta pruning.
 
 ## Algorithms/
 General algorithms and data-structure practice — merge sort, an expression
