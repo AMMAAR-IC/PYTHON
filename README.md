@@ -6,8 +6,8 @@ A collection of standalone Python scripts, grouped by topic.
 Supervised, unsupervised and semi-supervised learning — both scikit-learn based
 and written from scratch. AdaBoost, DBSCAN, GMM, KNN, KMeans, PCA, Naive Bayes,
 Perceptron, SVM, random forests, agglomerative clustering, label spreading,
-pseudo-labeling, self-training,
-and a pure-NumPy neural network with backprop trained on the digits dataset.
+pseudo-labeling, self-training, and a pure-NumPy neural network with backprop
+trained on the digits dataset.
 
 ## AI_And_Search/
 Classic AI: search, constraint solving and reasoning. A* pathfinding, 8-puzzle
@@ -32,8 +32,8 @@ stars, volcano, water ripples, a matrix clock.
 
 ## Simulations/
 Modelling and generative experiments — the logistic map / chaos plot, infection
-spread, an Ulam prime spiral, alien signal entropy analysis, weather generation,
-subjective time perception.
+spread, an Ulam prime spiral, Conway's Game of Life, alien signal entropy
+analysis, weather generation, subjective time perception.
 
 ## Games/
 Interactive terminal games and toys — snake, a maze crawler, Tamagotchi, a text
