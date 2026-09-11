@@ -22,7 +22,8 @@ structure with Kruskal's minimum spanning tree.
 
 ## Cryptography/
 Encoding, hashing and hiding data — LSB image steganography, Morse code,
-modular inverse / extended GCD, DNA-based hash patterns, QR code generation.
+modular inverse / extended GCD, DNA-based hash patterns, QR code generation,
+textbook RSA with Miller-Rabin key generation.
 
 ## TerminalAnimations/
 ASCII art and animated terminal effects — binary rain, black hole, comet, fire,
