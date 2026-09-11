@@ -15,7 +15,8 @@ solver, a forward-chaining inference engine, the Einstein riddle, Markov chains.
 
 ## Algorithms/
 General algorithms and data-structure practice — merge sort, an expression
-evaluator, a small regex engine, word break, list/set operations.
+evaluator, a small regex engine, word break, list/set operations, a union-find
+structure with Kruskal's minimum spanning tree.
 
 ## Cryptography/
 Encoding, hashing and hiding data — LSB image steganography, Morse code,
